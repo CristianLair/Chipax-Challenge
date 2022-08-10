@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  },
+  "name": "chipax-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianLair/Chipax-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianLair/Chipax-Challenge/issues"
+  },
+  "homepage": "https://github.com/CristianLair/Chipax-Challenge#readme",
+  "description": ""
+}
